@@ -1,0 +1,28 @@
+.section-profil-user{
+    padding-top: 7rem;
+    padding-bottom: 3rem;
+  }
+  
+  .profil-image-content >div img{
+    border-radius: 100%;
+    background: #000;
+    height: 10rem;
+  }
+  
+  .section-profil-user h5{
+    font-size: 18px;
+    display: block;
+    color: #072366;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.4;
+  }
+  
+  .profil-info-activite h2,.profil-info-entreprise h2{
+    font-size: 22px;
+    display: block;
+    color: #072366;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+  }

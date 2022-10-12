@@ -1,0 +1,14 @@
+
+.first-step-donation-title-h2{
+    color:#272aad ;
+    font-family: 'Roboto', sans-serif;
+}
+
+.first-step-donation-styled-divider{
+    width:30%;
+    background-color: #272aad;
+    height:2px;
+    margin:auto;
+    margin-top: 1rem;
+
+}

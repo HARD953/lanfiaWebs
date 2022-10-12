@@ -1,0 +1,64 @@
+.cards-cibles-panel{
+    display: inline-block;
+    width: 20rem;
+}
+
+.cards-cibles-panel  img{
+    width: 20rem;
+    height: 15rem;
+}
+
+.cards-cibles-panel:hover{
+    
+}
+
+
+.home-btn-don-cible{
+    background: #1d2252b2;
+    text-decoration: none;
+    color:#f0f8ff;
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+
+}
+
+@media only screen and (max-width: 468px) {
+        
+    .cards-cibles-panel{
+        display: inline-block;
+        width: 15rem;
+    }
+    
+    .cards-cibles-panel  img{
+        width: 15rem;
+        height: 15rem;
+    }
+    
+   
+   
+}
+
+
+
+@media only screen and (min-width: 468px) {
+        
+    .cards-cibles-panel{
+        display: inline-block;
+        width: 20rem;
+    }
+    
+    .cards-cibles-panel  img{
+        width: 20rem;
+        height: 15rem;
+    }
+    
+   
+   
+}
+

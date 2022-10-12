@@ -1,0 +1,49 @@
+.make-donation-container{
+    padding-top: 1rem;
+    /* background-color: #fff; */
+    height: auto;
+    /* background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.973), rgba(101, 101, 138, 0.79)), url("https://image.shutterstock.com/image-photo/drought-asian-women-poverty-600w-1662349750.jpg");   */
+    /* background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.996), rgba(101, 101, 138, 0.245)), url("https://images.pexels.com/photos/9968380/pexels-photo-9968380.jpeg"); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.make-donation-step-container{
+    margin-top: 0rem;
+}
+
+.make-donation-step-header{
+    
+    padding:2rem;
+}
+
+.step-btn-contenair{
+        display: block;
+}
+  
+.step-btn-contenair-md{
+    display: none;
+}
+
+.stepLoader-contenair{
+    padding: 2rem;
+    margin: 10rem;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+        
+    .step-btn-contenair{
+        display: none;
+    }
+
+    .step-btn-contenair-md{
+        display: block;
+    }
+
+}
+

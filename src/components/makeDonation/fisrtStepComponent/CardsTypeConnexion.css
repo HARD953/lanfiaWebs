@@ -1,0 +1,18 @@
+
+.card-type-connexion{
+    width: 27rem;
+    transition: all 0.4s ease-in-out;
+}
+
+.card-type-connexion:hover{
+    width: 27rem;
+    transform:translateY(4px);
+    cursor:pointer;
+}
+
+
+.card-type-connexion-img{
+    width: 50%;
+    height: 10rem;
+}
+

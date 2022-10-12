@@ -1,0 +1,112 @@
+.my-actions-container{
+    padding-top: 7rem;
+}
+.my-actions-container h3{
+    font-size: 30px;
+    display: block;
+    color: #072366;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+
+}
+.tabview-demo .tabview-header-icon i, .tabview-demo .tabview-header-icon span {
+    vertical-align: middle;
+}
+
+.tabview-demo .tabview-header-icon span {
+    margin: 0 .5rem;
+}
+
+.tabview-demo .p-tabview p {
+    line-height: 1.5;
+    margin: 0;
+}
+
+.don-objet-card-img {
+    height: 15rem;
+    width:auto;
+    overflow: hidden;
+}
+
+.don-objet-card-img >img{
+    height: 15rem;
+    width:100%;
+    overflow: hidden;
+}
+
+.don-obejt-card-description{
+
+}
+
+.don-obejt-card-description h2{
+    font-size: 20px;
+    display: block;
+    color: #072366;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+    display: -webkit-box;
+    line-clamp: 1;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+}
+
+.don-obejt-card-description .don-obejt-card-description-text{
+    font-size: 16px;
+    display: block;
+    color: #000000;
+    font-weight: 200;
+    line-height: 1.4;
+    display: -webkit-box;
+    line-clamp: 3;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+    height:70px;
+}
+
+/* .etat-don-objet-p{
+    color: #097e1d;
+} */
+
+.don-objet-modal-contenair img{
+    height: 20rem;
+}
+
+.don-objet-modal-contenair h4{
+    font-size: 20px;
+    display: block;
+    color: #072366;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+
+.don-objet-modal-info-sup h2{
+    font-size: 22px;
+    display: block;
+    color: #072366;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+  
+  .don-objet-modal-info-sup h5{
+    font-size: 18px;
+    display: block;
+    color: #000000;
+    font-weight: 700;
+    line-height: 1.4;
+  }
+
+  .don-objet-modal-contenair-p{
+    
+    font-size: 22px;
+    display: block;
+    color: #bf9003;  
+    font-weight: 700;
+    line-height: 1.4;
+  }
+  

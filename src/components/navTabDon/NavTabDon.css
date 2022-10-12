@@ -1,0 +1,17 @@
+.nav-tab-don-container{
+    margin-top: 0px;
+    position: relative;
+    width: 100%;
+    
+}
+
+.nav-tab-don-container .nav-tab-don-appBar{
+    background: #f8fcff;
+    
+}
+
+
+.stepLoader-contenair{
+    padding: 2rem;
+    margin: 10rem;
+}

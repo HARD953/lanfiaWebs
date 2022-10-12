@@ -1,0 +1,56 @@
+.third-step-container{
+}
+
+.third-step-who-container{
+    width: 30rem;
+    /* color: #0b0d6e; */
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+#btn-radio{
+    border-radius: 2rem;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+}
+
+
+.montant-don-input{
+    background: rgb(251, 251, 251);
+    text-align: center;
+    margin: auto;
+    font-size:40px;
+    font-weight: bolder;
+}
+
+
+.third-message{
+    background: #646488;
+    font-size: 20px;
+    color: #fff;
+    
+}
+
+.third-message-p{
+    font-size: 20px;
+    color: #fff;
+    
+}
+
+@media only screen and (max-width: 992px) {
+   
+    .third-step-who-container{
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+   
+    .third-step-who-container{
+        width: 100%;
+    }
+}

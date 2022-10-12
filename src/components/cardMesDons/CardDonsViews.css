@@ -1,0 +1,42 @@
+
+
+.card-view-argent{
+    width:20rem;
+    box-shadow: 5px 3px 3px #e6e6e6bd,-5px -3px 3px #e6e6e6d6;
+    transition:all 0.5s ease;
+    padding:1.5rem;
+}
+
+
+.card-view-argent:hover{
+    transform: scale(1.1);
+    cursor:pointer;
+}
+
+.card-view-argent h6{
+    font-size: 18px;
+    display: block;
+    color: rgb(4, 11, 99);
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+.card-view-argent h3{
+    font-size: 22px;
+    display: block;
+    color: rgb(4, 11, 99);
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+.card-view-argent .montant-p{
+    font-size: 22px;
+    display: block;
+    color: rgb(4, 11, 99);
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+
+}

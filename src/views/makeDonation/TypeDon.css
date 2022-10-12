@@ -1,0 +1,55 @@
+.types-dons-container{
+        padding-top: 6rem;
+        background: #eaeaea;
+        /* background-image: linear-gradient(to bottom, rgba(233, 233, 233, 0.905), #00000019), url("https://cdn-lejdd.lanmedia.fr/var/europe1/storage/images/lejdd/international/famine-en-afghanistan-pourquoi-est-il-necessaire-de-reformer-laide-humanitaire-internationale-4092811/58188042-1-fre-FR/Famine-en-Afghanistan-pourquoi-est-il-necessaire-de-reformer-l-aide-humanitaire-internationale.jpg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat; */
+        padding-bottom: 50px;
+    
+}
+
+.types-dons-header-section{
+    /* height:10rem; */
+    overflow: hidden;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.716), #00000019), url("https://cdn-lejdd.lanmedia.fr/var/europe1/storage/images/lejdd/international/famine-en-afghanistan-pourquoi-est-il-necessaire-de-reformer-laide-humanitaire-internationale-4092811/58188042-1-fre-FR/Famine-en-Afghanistan-pourquoi-est-il-necessaire-de-reformer-l-aide-humanitaire-internationale.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.types-dons-header-section >div >div{
+    height:15rem;
+}
+
+.types-dons-header-section h1{ 
+    font-size: 42px;
+    display: block;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+.types-dons-header-section h2{ 
+    font-size: 22px;
+    display: block;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+
+/* .types-dons-panel{
+    min-height: 100%;
+    margin-top: 2rem;
+}
+
+.types-dons-panel-header{
+    
+}
+
+.types-dons-panel .types-dons-panel-header h3{
+    color:#183587;
+} */

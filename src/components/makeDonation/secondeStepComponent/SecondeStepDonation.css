@@ -1,0 +1,26 @@
+.seconde-step-container h6{
+    font-size: 15px;
+    display: block;
+    color: #272aad;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+
+.seconde-step-container .info-donateur-logged h5{
+    font-size: 25px;
+    display: block;
+    color: #870c0c;
+    font-weight: 600;
+    line-height: 1.4;
+    
+}
+
+.seconde-step-container .info-donateur-logged p{
+    font-size: 15px;
+    display: block;
+    color: #872525;
+    font-weight: 500;
+    line-height: 1.4;
+    
+}

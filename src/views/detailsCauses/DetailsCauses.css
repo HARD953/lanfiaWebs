@@ -1,0 +1,65 @@
+.details-causes-container{
+    padding-top: 7rem;
+    background: #f9f9f9;
+
+}
+
+.details-causes-container .details-causes-section-details{
+
+
+}
+
+
+.details-causes-container .details-causes-section-details img{
+
+}
+
+
+.details-causes-container .details-causes-section-details h2{
+    font-size: 35px;
+    display: block;
+    color: #2a0ea7;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+
+}
+
+.details-causes-container .details-causes-section-details p{
+    font-size: 15px;
+    display: block;
+    color: rgb(8, 8, 8);
+    font-weight: normal;
+    line-height: 1.4;
+
+}
+
+.details-causes-container .details-causes-section-details button{
+    background: #2a0ea7;
+    border-radius: 6px;
+    position: relative;
+    z-index: 1;
+}
+
+
+.details-causes-container .details-causes-section-details button{
+    background: #2a0ea7;
+    border-radius: 6px;
+    position: relative;
+    z-index: 1;
+}
+
+.details-causes-container .details-causes-section-details button:hover{
+    background: #170a52;
+}
+
+
+.section-autres-causes h1{
+    margin-top: 5rem;
+    font-size: 35px;
+    display: block;
+    color: #2a0ea7;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}

@@ -1,0 +1,335 @@
+.home-container{
+    padding-top: 6rem; 
+     background: #f9f9f9;
+}
+
+.home-carousel-container{ 
+    padding-bottom: 100px;
+    overflow: hidden;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.581), #0000009e), url("https://static.vecteezy.com/system/resources/thumbnails/001/880/049/small/volunteers-collecting-donations-for-charity-free-vector.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home-header-text-container h1{
+    font-size: 42px;
+    display: block;
+    color: #fff;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+
+.home-header-text-container h5{
+    font-size: 22px;
+    display: block;
+    color: #fff;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+
+
+.home-carousel-bouton-container{
+    margin-top: 5rem;
+}
+
+.home-btn-don{
+    background: #2a0ea7;
+    text-decoration: none;
+    color:#f0f8ff;
+    padding: 1rem;
+    font-family: 'Muli', sans-serif;
+    font-weight: 600;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+
+}
+
+.home-user-give-container{
+    background: rgba(255, 255, 255, 0.982);
+    padding-top:5rem ;
+    padding-bottom: 5rem;
+}
+
+
+/*  Home card cible*/
+
+.home-card-title-img{
+    height: 5rem;
+}
+
+
+
+.service-don .single-cat {
+  background: #fff;
+  border-radius: 6px;
+  padding: 85px 22px;
+  -webkit-transition: .4s;
+  -moz-transition: .4s;
+  -o-transition: .4s;
+  transition: .4s;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+  position: relative;
+  z-index: 1;
+}
+
+.service-don .how-give-title h2{
+    font-size: 35px;
+    display: block;
+    color: #072366;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+
+.section-list-vulnerabilite{
+    position: relative;
+    padding-top: 50px;
+    
+    background: #337899;
+}
+
+.service-don .single-cat{
+    background: #2a0ea7;
+}
+
+.service-don .single-cat .cat-icon span {
+    margin-bottom: 50px;
+    width: 90px;
+    height: 90px;
+    background: #fff;
+    line-height: 90px;
+    text-align: center;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    color: #2a0ea7;
+}
+.service-don .single-cat .cat-cap h5 > span {
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 21px;
+    display: block;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s;
+    font-family: "Muli",sans-serif;
+}
+
+.service-don .single-cat .cat-cap p {
+    margin-bottom: 36px;
+    color: #fff;
+    font-size: 18px;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s;
+}
+
+.service-don .single-cat .cat-cap p >span {
+    margin-bottom: 36px;
+    color: #1f1e21;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: capitalize;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s;
+  }
+
+.section-list-vulnerabilite .section-tittle h2 {
+    font-size: 42px;
+    display: block;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+.section-tittle span {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 22px;
+    color: #060164;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: .05em;
+}
+
+.section-tittle h2 {
+    font-size: 42px;
+    display: block;
+    color: #021256;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+
+.section-info-donation-type{
+    padding: 5rem 0rem;
+}
+
+
+.section-info-donation-type h2{
+    font-size: 32px;
+    display: block;
+    color: #072366;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+    
+}
+.section-info-donation-type p{
+    font-size: 20px;
+    display: block;
+    color: #000;
+    font-weight: 400;
+    line-height: 1.4;
+    
+}
+
+.contact-us-container {
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #e7eaeb;
+}
+
+.contact-us-container .about-caption p {
+    font-size: 20px;
+    color: #000;
+    line-height: 1.6;
+    margin-bottom: 43px;
+    padding-right: 50px;
+}
+ 
+
+.contact-us-container button {
+    background: #2a0ea7;
+    font-family: "Muli", sans-serif;
+    text-transform: capitalize;
+    padding: 27px 44px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 0px;
+    line-height: 1;
+    letter-spacing: 1px;
+    line-height: 0;
+    margin-bottom: 0;
+    margin: 10px;
+    cursor: pointer;
+    transition: color 0.4s linear;
+    position: relative;
+    z-index: 1;
+    border: 0;
+    overflow: hidden;
+    margin: 0;
+}
+
+.contact-us-imgs .contact-us-img-first {
+    width: auto;
+    border-radius: 5px;
+}
+.contact-us-imgs .contact-us-img-first>img {
+    width: auto;
+    border-radius: 5px;
+    border-bottom: 10px solid #2a0ea7;
+    border-right: 10px solid #2a0ea7;
+    border-top: 10px solid #2a0ea7;
+}
+
+.contact-us-imgs .contact-us-img-second  {
+   border-bottom: 10px solid #2a0ea7;
+}
+.contact-us-imgs .contact-us-img-second >img {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 400px;
+    margin-left: -20px;
+    border-bottom: 10px solid #2a0ea7;
+    border-right: 10px solid #2a0ea7;
+    border-top: 10px solid #2a0ea7;
+    border-radius: 5px;
+}
+
+
+/* home action dons */
+.home-actions-dons{
+    padding-bottom: 8rem;
+}
+
+
+.home-contactus{
+    background: rgba(219, 214, 213, 0.651);
+}
+
+.home-contactus-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.home-contactus-container  p{
+    font-size:30px;
+}
+
+.home-contactus-btn{
+    background: #1d10ca;
+    color: white;
+    padding: 1.5rem 4rem;
+    border-radius:5px;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+        
+    .home-carousel-img{
+        height: 15rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .home-carousel-bouton-container{
+        align-self: center;
+        margin-top: 3rem;
+    }
+   
+   
+.contact-us-container {
+    padding-top: 0px;
+    padding-bottom: 50px;
+}
+
+}
+
+
+.ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+

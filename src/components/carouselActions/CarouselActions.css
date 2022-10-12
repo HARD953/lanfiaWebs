@@ -1,0 +1,19 @@
+.custom-slider-home{
+    height: 40rem;
+}
+
+.custom-slider-homeImage{
+    height: 40rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .custom-slider-home{
+        height: 20rem;
+    }
+    
+    .custom-slider-homeImage{
+        height: 20rem;
+    }
+    
+   
+}
